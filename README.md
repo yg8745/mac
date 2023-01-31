@@ -1,4 +1,4 @@
-# mac 동아리
+# MAC (Mathematical Analysis with Coding)
 #### MAC은 한양대학교 ERICA캠퍼스 수리데이터사이언스학과 동아리 입니다.
 
 <http://amath.hanyang.ac.kr/>
